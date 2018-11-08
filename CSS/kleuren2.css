@@ -1,0 +1,222 @@
+.blauw
+{
+    height: 100px;
+    width: 48%;
+    background-color: blue;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+
+
+
+.geel
+{
+    height: 100px;
+    width: 97%;
+    background-color: yellow;
+    float: left;
+   margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+.groen
+{
+    height: 100px;
+    width: 31.5%;
+    background-color: green;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+
+
+.rood
+{
+    height: 100px;
+    width: 23.5%;
+    background-color: red;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    .blauw
+{
+    height: 100px;
+    width: 48%;
+    background-color: blue;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+
+
+
+.geel
+{
+    height: 100px;
+    width: 97%;
+    background-color: yellow;
+    float: left;
+   margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+.groen
+{
+    height: 100px;
+    width: 31.5%;
+    background-color: green;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+
+
+.rood
+{
+    height: 100px;
+    width: 23.5%;
+    background-color: red;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+
+}
+    }
+@media only screen and (max-width: 960px) { 
+     .blauw
+{
+    height: 100px;
+    width: 48%;
+    background-color: blue;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+
+
+
+.geel
+{
+    height: 100px;
+    width: 97%;
+    background-color: yellow;
+    float: left;
+   margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+.groen
+{
+    height: 100px;
+    width: 31.5%;
+    background-color: green;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+
+
+
+.rood
+{
+    height: 100px;
+    width: 23.5%;
+    background-color: red;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+
+    }
+    }
+@media only screen and (max-width: 767px) { 
+     .blauw
+{
+    height: 100px;
+    width: 48%;
+    background-color: blue;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+
+
+
+.geel
+{
+    height: 100px;
+    width: 97%;
+    background-color: yellow;
+    float: left;
+   margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+.groen
+{
+    height: 100px;
+    width: 31.5%;
+    background-color: green;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+
+
+.rood
+{
+    height: 100px;
+    width: 23.5%;
+    background-color: red;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+    }
+@media only screen and (max-width: 320px) {
+   .blauw
+{
+    height: 100px;
+    width: 48%;
+    background-color: blue;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+
+
+
+.geel
+{
+    height: 100px;
+    width: 97%;
+    background-color: yellow;
+    float: left;
+   margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+.groen
+{
+    height: 100px;
+    width: 31.5%;
+    background-color: green;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+
+}
+
+
+
+.rood
+{
+    height: 100px;
+    width: 23.5%;
+    background-color: red;
+    float: left;
+    margin: 0.5%; margin: 0.5%; margin: 0.5%; margin: 0.5%;
+}
+    }
